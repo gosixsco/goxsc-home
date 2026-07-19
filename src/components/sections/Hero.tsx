@@ -33,7 +33,7 @@ export default function Hero() {
                 {/* Description */}
                 <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-400">
                     GOXSC builds fast, lightweight, and developer-focused web
-                    services. Start with <span className="font-medium text-white">GOXMail</span>,
+                    services. Start with <span className="font-medium text-white">goxmail</span>,
                     our temporary email platform.
                 </p>
 
